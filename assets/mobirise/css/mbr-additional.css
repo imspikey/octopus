@@ -3161,3 +3161,114 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: left;
 }
+.cid-rVUoXP7jP8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rVUoXP7jP8 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rVUoXP7jP8 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rVUoXP7jP8 .media-container-row {
+    flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+  }
+  .cid-rVUoXP7jP8 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rVUoXP7jP8 .mbr-text {
+  color: #232323;
+  text-align: left;
+}
+.cid-rVUpzf5rb1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rVUpzf5rb1 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rVUpzf5rb1 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rVUpzf5rb1 .media-container-row {
+    flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+  }
+  .cid-rVUpzf5rb1 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rVUpzf5rb1 .mbr-text {
+  color: #232323;
+  text-align: left;
+}
+.cid-rVUqagHrqE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rVUqagHrqE .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rVUqagHrqE .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rVUqagHrqE .mbr-text {
+  color: #232323;
+  text-align: left;
+}
+.cid-rVUubtEq2f {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rVUubtEq2f .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rVUubtEq2f .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rVUubtEq2f .mbr-text {
+  color: #232323;
+  text-align: left;
+}
+.cid-rVUucqMntD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rVUucqMntD .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rVUucqMntD .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rVUucqMntD .mbr-text {
+  color: #232323;
+  text-align: left;
+}
